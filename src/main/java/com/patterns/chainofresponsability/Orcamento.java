@@ -1,4 +1,4 @@
-package com.patterns.orcamento;
+package com.patterns.chainofresponsability;
 
 import java.math.BigDecimal;
 
@@ -10,6 +10,7 @@ import lombok.Data;
 @AllArgsConstructor
 public class Orcamento {
 	private BigDecimal valor;
+	private int quantidadeItens;
 	
 	
 }

@@ -1,4 +1,4 @@
-package com.patterns.orcamento.copy;
+package com.patterns.strategy;
 
 import java.math.BigDecimal;
 

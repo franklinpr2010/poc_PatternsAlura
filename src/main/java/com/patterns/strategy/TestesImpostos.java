@@ -2,8 +2,6 @@ package com.patterns.strategy;
 
 import java.math.BigDecimal;
 
-import com.patterns.orcamento.Orcamento;
-
 public class TestesImpostos {
 	
 	/**
